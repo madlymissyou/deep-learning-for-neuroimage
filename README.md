@@ -15,6 +15,7 @@
 
 * Outcome predication
   * `2014 Radiology` Outcome prediction in patients with glioblastoma by using imaging, clinical, and genomic biomarkers: focus on the nonenhancing component of the tumor [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263660/pdf/radiol.14131691.pdf)
+  * `2015` Imaging genomics of glioblastoma: biology, biomarkers, and breakthroughs [[html]](http://www.ncbi.nlm.nih.gov/pubmed/26049819)
 
 * Deep learning for medical images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
