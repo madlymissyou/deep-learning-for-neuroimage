@@ -10,7 +10,7 @@
 
 * Deep learning for pathology images
   * Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks (2015) [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
-  * Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[html]](http://www.nature.com/articles/srep26286)
+  * Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis (2016) [[html]](http://www.nature.com/articles/srep26286)
 
 * Trend
   * 2016.03 Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
