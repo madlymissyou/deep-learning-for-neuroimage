@@ -18,7 +18,7 @@
 * Deep learning for pathology images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
   * `2016` Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[html]](http://www.nature.com/articles/srep26286)
-  * `2015` Deep learning with non-medical training used for chest pathology identification
+  * `2015` Deep learning with non-medical training used for chest pathology identification [[pdf]](https://www.cs.tau.ac.il/~wolf/papers/SPIE15chest.pdf)
 
 
 
