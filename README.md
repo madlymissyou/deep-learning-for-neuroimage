@@ -4,6 +4,7 @@
   * Learning with Difference of Gaussian Features in the 3D Segmentation of Glioblastoma Brain Tumors [[pdf]](http://cs229.stanford.edu/proj2015/277_report.pdf)
   * MICCAI-BRATS 2015 proceedings [[pdf]](http://people.csail.mit.edu/menze/papers/proceedings_miccai_brats_2015.pdf)
   * Brain tumor detection and classification using deep learning classifier on MRI images (2015) [[pdf]](http://maxwellsci.com/print/rjaset/v10-177-187.pdf)
+  * Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks (2015) [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
 * Trend
   * Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
 
