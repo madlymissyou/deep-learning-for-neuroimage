@@ -15,10 +15,13 @@
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
 
 
-* Deep learning for pathology images
+* Deep learning for medical images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
   * `2016` Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[html]](http://www.nature.com/articles/srep26286)
   * `2015` Deep learning with non-medical training used for chest pathology identification [[pdf]](https://www.cs.tau.ac.il/~wolf/papers/SPIE15chest.pdf)
 
 
-
+* ADC
+  * `2013` ADC values and prognosis of malignant astrocytomas: does lower ADC predict a worse prognosis independent of grade of tumor? a meta-analysis [[pdf]](http://www.ajronline.org/doi/pdf/10.2214/AJR.12.8679)
+  * `2015` Apparent diffusion coefficient in the evaluation of cerebral gliomas malignancy [[pdf]](http://www.doiserbia.nb.rs/img/doi/0042-8450/2015/0042-84501500073I.pdf)
+  * `2014` Meta-analysis of diffusion metrics for the prediction of tumor grade in gliomas [[html]](http://www.ajnr.org/content/36/2/302.full)
