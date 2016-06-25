@@ -1,7 +1,6 @@
 
 #### Archive 
 
-
 * Trend
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
@@ -14,6 +13,8 @@
   * `2015` Brain tumor detection and classification using deep learning classifier on MRI images  [[pdf]](http://maxwellsci.com/print/rjaset/v10-177-187.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
 
+* Outcome predication
+  * `2014 Radiology` Outcome prediction in patients with glioblastoma by using imaging, clinical, and genomic biomarkers: focus on the nonenhancing component of the tumor [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263660/pdf/radiol.14131691.pdf)
 
 * Deep learning for medical images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
