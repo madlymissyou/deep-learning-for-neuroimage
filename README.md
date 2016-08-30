@@ -35,6 +35,7 @@
   * `2016 Stanford Report` A new algorithm for fully automatic brain tumor segmentation with 3D convolutional Neural Networks [[pdf]](http://cs231n.stanford.edu/reports2016/322_Report.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
+  * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
 
 #### Deep learning for Brain Tumor Grading
 * MRI
