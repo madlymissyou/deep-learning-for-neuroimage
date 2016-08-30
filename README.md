@@ -1,15 +1,19 @@
 
 ### Deep Learning in general
 
-* Trend
-  * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
-  * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
-  * Links to Deep Learning Subtopics [[html]](http://memkite.com/deep-learning-bibliography/)
-
 * Deep learning reviews
+  * `2014` Deep learning for neuroimaging: a validation study [[pdf]](file:///C:/Users/jeongwon/Downloads/fnins-08-00229.pdf)
   * `2015 Nature` Deep learning [[[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
   * `2016` Understanding deep vonvolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
   
+* Deep learning trends
+  * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
+  * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
+  * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
+  * Links to Deep Learning Subtopics [[html]](http://memkite.com/deep-learning-bibliography/)
+  
+
+
 #### Deep learning for Brain Tumor Segmentation
 * MRI
   * `2012` A comparative study of MRI data using various Machine Learning and pattern recognition algorithms to Detect Brain Abnormalities [[pdf]](http://crpit.com/confpapers/CRPITV134Singh.pdf) = A novel machine learning approach for detecting the Brain Abnormalities from MRI structural images [[html]](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_9#page-1)
