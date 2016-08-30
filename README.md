@@ -26,6 +26,7 @@
   * `2015` Brain tumor detection and classification using deep learning classifier on MRI images  [[html]](http://www.maxwellsci.com/jp/abstract.php?jid=RJASET&no=547&abs=08)
   * `2015 Plos One` Automated glioblastoma segmentation based on a multiparametric structured unsupervised classification [[pdf]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125143) 
   * `2015 CVPR` Deep neural networks for anatomical brain segmentation [[pdf]](https://www.semanticscholar.org/paper/Deep-neural-networks-for-anatomical-brain-Br%C3%A9bisson-Montana/1689c752d566a2b3bdee46d0b87d7623c66218d0)
+  * `2016` Brain Tumor Segmentation Using Convolutional Neural Networks in MRI Images [[pdf]](http://ieeexplore.ieee.org/document/7426413/?tp=&arnumber=7426413&punumber%3D42)
   * `2016 Stanford Report` A new algorithm for fully automatic brain tumor segmentation with 3D convolutional Neural Networks [[pdf]](http://cs231n.stanford.edu/reports2016/322_Report.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
