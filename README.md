@@ -1,11 +1,15 @@
 
-### Archive on Deep Learning for Brain
+### Deep Learning in general
 
-* Deep learning trend
+* Trend
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
 
-#### Brain tumor segmentation
+* Deep learning reviews
+  * `2015 Nature` Deep learning [[[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+  * `2016` Understanding deep vonvolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
+  
+#### Deep learning for Brain Tumor Segmentation
 * MRI
   * `2012` A comparative study of MRI data using various Machine Learning and pattern recognition algorithms to Detect Brain Abnormalities [[pdf]](http://crpit.com/confpapers/CRPITV134Singh.pdf) = A novel machine learning approach for detecting the Brain Abnormalities from MRI structural images [[html]](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_9#page-1)
   * `2015` Automated glioma segmentation in MRI using deep convolutional networks  [[pdf]](http://www.diva-portal.org/smash/get/diva2:841518/FULLTEXT01.pdf)
@@ -24,7 +28,7 @@
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
 
-#### Brain tumor grading
+#### Deep learning for Brain Tumor Grading
 * MRI
   * `2015 IEEE EMBS` Brain tumor grading based on neural networks and convolutional neural netsworks [[pdf]](http://www.ncbi.nlm.nih.gov/pubmed/26736358)
 * Brain pathology images
