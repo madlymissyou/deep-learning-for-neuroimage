@@ -24,7 +24,9 @@
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
 
 #### Brain tumor grading
-* Barin pathology images
+* MRI
+  * `2015 IEEE EMBS` Brain tumor grading based on neural networks and convolutional neural netsworks [[pdf]](http://www.ncbi.nlm.nih.gov/pubmed/26736358)
+* Brain pathology images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
 * Prostate/chest pathology images
   * `2016 Nature Sci.Rep.` Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[pdf]](http://www.nature.com/articles/srep26286)
