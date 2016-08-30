@@ -16,7 +16,7 @@
     * Deep convolutional neural networks for the segmentation of gliomas in multi-sequence MRI
     * Brain tumor segmentation with Deep Learning
     * Multi-modal brain tumor segmentation using Stacked Denoising Autoencoders
-  * `2015` Brain tumor detection and classification using deep learning classifier on MRI images  [[pdf]](http://maxwellsci.com/print/rjaset/v10-177-187.pdf)
+  * `2015` Brain tumor detection and classification using deep learning classifier on MRI images  [[html]](http://www.maxwellsci.com/jp/abstract.php?jid=RJASET&no=547&abs=08)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
 
