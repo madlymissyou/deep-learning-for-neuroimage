@@ -11,7 +11,7 @@
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
   * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
-  * Links to Deep Learning Subtopics [[html]](http://memkite.com/deep-learning-bibliography/)
+  
 
 #### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
@@ -20,7 +20,12 @@
 * Brain Segmentation
   * ISBI 2012 brain EM image segmentation [[github]](https://github.com/ahmed-fakhry/dive)
   * Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
-  * 
+
+#### LINK
+* Deep learning in general
+  * Awesome - Most Cited Deep Learning Papers [[link]](https://github.com/terryum/awesome-deep-learning-papers)
+  * Links to Deep Learning Subtopics [[link]](http://memkite.com/deep-learning-bibliography/)
+   
 #### Deep learning for Brain Tumor Segmentation
 * MRI
   * `2012` A comparative study of MRI data using various Machine Learning and pattern recognition algorithms to Detect Brain Abnormalities [[pdf]](http://crpit.com/confpapers/CRPITV134Singh.pdf) = A novel machine learning approach for detecting the Brain Abnormalities from MRI structural images [[html]](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_9#page-1)
