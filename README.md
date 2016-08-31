@@ -13,20 +13,20 @@
   * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
   
 
-#### Deep learning for Neuroinformatics
+### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
 
-#### CODE
+### CODE
 * Brain Segmentation
   * ISBI 2012 brain EM image segmentation [[github]](https://github.com/ahmed-fakhry/dive)
   * Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
 
-#### LINK
+### LINK
 * Deep learning in general
   * Awesome - Most Cited Deep Learning Papers [[link]](https://github.com/terryum/awesome-deep-learning-papers)
   * Links to Deep Learning Subtopics [[link]](http://memkite.com/deep-learning-bibliography/)
    
-#### Deep learning for Brain Tumor Segmentation
+### Deep learning for Brain Tumor Segmentation
 * MRI
   * `2012` A comparative study of MRI data using various Machine Learning and pattern recognition algorithms to Detect Brain Abnormalities [[pdf]](http://crpit.com/confpapers/CRPITV134Singh.pdf) = A novel machine learning approach for detecting the Brain Abnormalities from MRI structural images [[html]](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_9#page-1)
   * `2014` Survey of intelligent methods for Brain Tumor Detection [[pdf]](http://www.ijcsi.org/papers/IJCSI-11-5-1-108-117.pdf)
@@ -50,7 +50,7 @@
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
 
 
-#### Deep learning for Brain Tumor Grading
+### Deep learning for Brain Tumor Grading
 * MRI
   * `2015 IEEE EMBS` Brain tumor grading based on neural networks and convolutional neural netsworks [[pdf]](http://www.ncbi.nlm.nih.gov/pubmed/26736358)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
