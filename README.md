@@ -22,6 +22,7 @@
   * `2015` Brain tumor detection and segmentation in multisequence MRI [[pdf]](https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=109549)
   * `2015` Automated glioma segmentation in MRI using deep convolutional networks  [[pdf]](http://www.diva-portal.org/smash/get/diva2:841518/FULLTEXT01.pdf)
   * `2015` Learning with Difference of Gaussian Features in the 3D Segmentation of Glioblastoma Brain Tumors [[pdf]](http://cs229.stanford.edu/proj2015/277_report.pdf)
+  * `2015` Multi-scale 3D convolutional neural networks for lesion segmentation in brain MRI [[pdf]](http://www.doc.ic.ac.uk/~bglocker/pdfs/kamnitsas2015isles.pdf)
   * `2015` MICCAI-BRATS 2015 proceedings [[pdf]](http://people.csail.mit.edu/menze/papers/proceedings_miccai_brats_2015.pdf)
     * Structured prediction with convolutional neural networks for multimodal brain tumor segmentation
     * A convolutional neural network approach to brain tumor segmentation
