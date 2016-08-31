@@ -44,9 +44,6 @@
   * `2016` Efficient multi-scale 3D CNN with fully connected CRF for accurate brain lesion segmentation [[pdf]](http://arxiv.org/pdf/1603.05959v2.pdf)
 * Pathology
   * `2012` Deep Neural Networks segment neuronal membranes in electron Microscopy images [[pdf]](http://papers.nips.cc/paper/4741-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
-  * `2013` Large-scale automatic reconstruction of neuroanl processes from electron microscopy images [[pdf]](https://arxiv.org/pdf/1303.7186.pdf)
-  * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
-  
   
 ### Deep learning for Brain Tumor Grading
 * MRI
@@ -59,3 +56,8 @@
 * Prostate/chest pathology images
   * `2016 Nature Sci.Rep.` Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[pdf]](http://www.nature.com/articles/srep26286)
   * `2015` Deep learning with non-medical training used for chest pathology identification [[pdf]](https://www.cs.tau.ac.il/~wolf/papers/SPIE15chest.pdf)
+
+### Deep learning for Neuron Segmentation
+* Electron Microscopy  
+  * `2013` Large-scale automatic reconstruction of neuroanl processes from electron microscopy images [[pdf]](https://arxiv.org/pdf/1303.7186.pdf)
+  * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
