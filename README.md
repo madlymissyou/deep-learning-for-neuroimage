@@ -43,7 +43,9 @@
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016` Efficient multi-scale 3D CNN with fully connected CRF for accurate brain lesion segmentation [[pdf]](http://arxiv.org/pdf/1603.05959v2.pdf)
 * Pathology
+  * `2012` Deep Neural Networks segment neuronal membranes in electron Microscopy images [[pdf]](http://papers.nips.cc/paper/4741-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
+  
   
 ### Deep learning for Brain Tumor Grading
 * MRI
