@@ -3,7 +3,7 @@
 * Review articles
   * `2014` Deep learning for neuroimaging: a validation study [[pdf]](http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full)
   * `2015 Nature` Deep learning [[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
-  * `2016` Understanding deep vonvolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
+  * `2016` Understanding deep convolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
   * `2016` Deep Learning in medical imaging: overview and future promise of an exciting new technique [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7463094)
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
