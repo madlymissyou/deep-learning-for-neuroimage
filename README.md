@@ -42,13 +42,14 @@
     * Brain tumor segmentation with Deep Learning
     * Multi-modal brain tumor segmentation using Stacked Denoising Autoencoders
   * `2015` Brain tumor detection and classification using deep learning classifier on MRI images  [[html]](http://www.maxwellsci.com/jp/abstract.php?jid=RJASET&no=547&abs=08)
+  * `2015` Detection and segmentation of brain metastases with deep convolutional networks [[pdf]](http://www.diva-portal.se/smash/get/diva2:853460/FULLTEXT01.pdf)
   * `2015 Plos One` Automated glioblastoma segmentation based on a multiparametric structured unsupervised classification [[pdf]](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125143) 
   * `2015 CVPR` Deep neural networks for anatomical brain segmentation [[pdf]](https://www.semanticscholar.org/paper/Deep-neural-networks-for-anatomical-brain-Br%C3%A9bisson-Montana/1689c752d566a2b3bdee46d0b87d7623c66218d0)
   * `2016` Brain Tumor Segmentation Using Convolutional Neural Networks in MRI Images [[pdf]](http://ieeexplore.ieee.org/document/7426413/?tp=&arnumber=7426413&punumber%3D42)
   * `2016 Stanford Report` A new algorithm for fully automatic brain tumor segmentation with 3D convolutional Neural Networks [[pdf]](http://cs231n.stanford.edu/reports2016/322_Report.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
-
+  * `2016` Efficient multi-scale 3D CNN with fully connected CRF for accurate brain lesion segmentation [[pdf]](http://arxiv.org/pdf/1603.05959v2.pdf)
 
 ### Deep learning for Brain Tumor Grading
 * MRI
