@@ -12,8 +12,6 @@
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
   * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
   * Links to Deep Learning Subtopics [[html]](http://memkite.com/deep-learning-bibliography/)
-  
-
 
 #### Deep learning for Brain Tumor Segmentation
 * MRI
@@ -37,6 +35,7 @@
   * `2016 Stanford Report` A new algorithm for fully automatic brain tumor segmentation with 3D convolutional Neural Networks [[pdf]](http://cs231n.stanford.edu/reports2016/322_Report.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
+  * 'code' Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
 
 #### Deep learning for Brain Tumor Grading
 * MRI
