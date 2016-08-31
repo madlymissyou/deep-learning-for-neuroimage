@@ -16,6 +16,11 @@
 #### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
 
+#### CODE
+* Brain Segmentation
+  * ISBI 2012 brain EM image segmentation [[github]](https://github.com/ahmed-fakhry/dive)
+  * Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
+  * 
 #### Deep learning for Brain Tumor Segmentation
 * MRI
   * `2012` A comparative study of MRI data using various Machine Learning and pattern recognition algorithms to Detect Brain Abnormalities [[pdf]](http://crpit.com/confpapers/CRPITV134Singh.pdf) = A novel machine learning approach for detecting the Brain Abnormalities from MRI structural images [[html]](http://link.springer.com/chapter/10.1007%2F978-3-642-34123-6_9#page-1)
@@ -38,7 +43,7 @@
   * `2016 Stanford Report` A new algorithm for fully automatic brain tumor segmentation with 3D convolutional Neural Networks [[pdf]](http://cs231n.stanford.edu/reports2016/322_Report.pdf)
   * `2016` On image segmentation methods applied to glioblastoma: state of art and new trends [[pdf]](https://hal.archives-ouvertes.fr/hal-01325355/document)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
-  * `code` Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
+
 
 #### Deep learning for Brain Tumor Grading
 * MRI
