@@ -2,8 +2,8 @@
 ### Deep Learning in general
 
 * Deep learning reviews
-  * `2014` Deep learning for neuroimaging: a validation study [[pdf]](file:///C:/Users/jeongwon/Downloads/fnins-08-00229.pdf)
-  * `2015 Nature` Deep learning [[[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+  * `2014` Deep learning for neuroimaging: a validation study [[pdf]](http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full)
+  * `2015 Nature` Deep learning [[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
   * `2016` Understanding deep vonvolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
   * `2016` Deep Learning in medical imaging: overview and future promise of an exciting new technique [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7463094)
   
