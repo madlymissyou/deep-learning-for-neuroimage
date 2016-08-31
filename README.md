@@ -44,6 +44,8 @@
 * MRI
   * `2015 IEEE EMBS` Brain tumor grading based on neural networks and convolutional neural netsworks [[pdf]](http://www.ncbi.nlm.nih.gov/pubmed/26736358)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
+* PET
+  * `2016` Convolutional neural network can help differentiate FDG PET images of brain tumor between glioblastoma and primary central nervous system lymphoma [[html](http://jnm.snmjournals.org/content/57/supplement_2/1855?related-urls=yes&legid=jnumed;57/supplement_2/1855)
 * Brain pathology images
   * `2015` Automated grading of gliomas using deep learning in digital pathology images: a modular approach with ensemble of convolutional neural networks [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765616/pdf/2243353.pdf)
 * Prostate/chest pathology images
