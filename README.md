@@ -12,6 +12,7 @@
 * LINK
   * Awesome - Most Cited Deep Learning Papers [[link]](https://github.com/terryum/awesome-deep-learning-papers)
   * Links to Deep Learning Subtopics [[link]](http://memkite.com/deep-learning-bibliography/)
+  * Lecture: http://hunkim.github.io/ml/
   
 ### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
