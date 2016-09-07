@@ -20,6 +20,7 @@
   * Book: Fundamental of Deep Learning [[link]](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)
   * 텐서플로우 시작하기 `김정주` [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   * Deep learning/TensorFlow `문동선` [[link]](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
+  * TFlearn http://tflearn.org/
   
 ### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
