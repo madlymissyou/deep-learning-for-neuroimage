@@ -12,8 +12,8 @@
 * LINK
   * Awesome - Most Cited Deep Learning Papers [[link]](https://github.com/terryum/awesome-deep-learning-papers)
   * Links to Deep Learning Subtopics [[link]](http://memkite.com/deep-learning-bibliography/)
-  * Lecture: http://hunkim.github.io/ml/
-  * 텐서플로우 시작하기 (김정주) https://gist.github.com/haje01/202ac276bace4b25dd3f
+  * Lecture: 모두를 위한 딥러닝/머신러닝 강의 (TensorFlow) `김성` [[link]](http://hunkim.github.io/ml/)
+  * 텐서플로우 시작하기 `김정주` [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   
 ### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
