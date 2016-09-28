@@ -39,6 +39,7 @@
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 
 ## TensorFlow
+* Tutorials
   * [TensorFlow 공식 홈페이지](http://tensorflow.org)
   * [TensorFlow Github](https://github.com/tensorflow/tensorflow/releases)
   * [TensorFlow Playground](http://playground.tensorflow.org/)
