@@ -1,7 +1,7 @@
 
 ## Deep Learning in general
 * Textbook
-  * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) :sparkles:
+  * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) 
   
 * Review papers
   * `2013` Representation learning: A review and new perspectives (Yushua Bengio) [[pdf]](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
