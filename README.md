@@ -35,13 +35,11 @@
 * LINK  
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
-  * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)
-  * [Deep learning/TensorFlow (문동선)](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
-  * [TFlearn](http://tflearn.org/)  
+  * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)  
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 
 * TensorFlow
-  * [TensorFlow 공식 홈페이지](http://tensorflow.org)
+ * [TensorFlow 공식 홈페이지](http://tensorflow.org)
   * [TensorFlow Github](https://github.com/tensorflow/tensorflow/releases)
   * [TensorFlow Playground](http://playground.tensorflow.org/)
   * [Deep LEarning Docker Image](https://hub.docker.com/r/imcomking/bi_deeplearning/)
@@ -52,7 +50,9 @@
   * [Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow (김성)](http://hunkim.github.io/ml/)
   * [Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb)](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
   * [TensorFlow Tutorial (SNU BILAB)](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb) 
-
+  * [Deep learning/TensorFlow (문동선)](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
+  * [TFlearn](http://tflearn.org/)  
+  
 * Open-source TensorFlow Implementation
   * [Syntax Net, Magenta, Image2Txt](https://github.com/tensorflow/models)
   * [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
