@@ -4,28 +4,28 @@
   * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) :sparkles:
   
 * Review papers
-  * `2013` Representation learning: A review and new perspectives `Yushua Bengio` [[pdf]](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
+  * `2013` Representation learning: A review and new perspectives (Yushua Bengio) [[pdf]](http://www.cl.uni-heidelberg.de/courses/ws14/deepl/BengioETAL12.pdf)
   * `2014` Deep learning for neuroimaging: a validation study [[pdf]](http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full)
-  * `2015 Nature` Deep learning `Yann LeCun, Yoshua Bengio, Geoffrey Hinton` [[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
-  * `2015` Deep learning in neural networks: An overview `J. Schmidhuber` [[pdf]](http://www2.econ.iastate.edu/tesfatsi/DeepLearningInNeuralNetworksOverview.JSchmidhuber2015.pdf)  
+  * `2015 Nature` Deep learning (Yann LeCun, Yoshua Bengio, Geoffrey Hinton) [[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+  * `2015` Deep learning in neural networks: An overview (J. Schmidhuber) [[pdf]](http://www2.econ.iastate.edu/tesfatsi/DeepLearningInNeuralNetworksOverview.JSchmidhuber2015.pdf)  
   * `2016` Understanding deep convolutional networks [[pdf]](http://rsta.royalsocietypublishing.org/content/374/2065/20150203)
   * `2016` Deep Learning in medical imaging: overview and future promise of an exciting new technique [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7463094)
   * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
 
 * Network Models    
-  * `2012` ImageNet classification with deep convolutional neural networks `A. Krizhevsky et al. (Hinton)` [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-  * `2015` Fully convolutional networks for semantic segmentation `J. Long et al.` [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
-  * `2014` Very deep convolutional networks for large-scale image recognition `K. Simonyan and A. Zisserman` [[pdf]](http://arxiv.org/pdf/1409.1556)
-  * `2014` Visualizing and understanding convolutional networks `M. Zeiler and R. Fergus` [[pdf]](http://arxiv.org/pdf/1311.2901)
-  * `2015` Fast R-CNN `R. Girshick` [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
-  * `2015` Going deeper with convolutions `C. Szegedy et al. (Google)` [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) 
-  * `2016` Deep residual learning for image recognition `K. He et al. (Microsoft)` [[pdf]](http://arxiv.org/pdf/1512.03385)
+  * `2012` ImageNet classification with deep convolutional neural networks (A. Krizhevsky et al. Hinton) [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+  * `2015` Fully convolutional networks for semantic segmentation (J. Long et al.) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+  * `2014` Very deep convolutional networks for large-scale image recognition (K. Simonyan and A. Zisserman) [[pdf]](http://arxiv.org/pdf/1409.1556)
+  * `2014` Visualizing and understanding convolutional networks (M. Zeiler and R. Fergus) [[pdf]](http://arxiv.org/pdf/1311.2901)
+  * `2015` Fast R-CNN (R. Girshick) [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+  * `2015` Going deeper with convolutions (C. Szegedy et al. Google) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) 
+  * `2016` Deep residual learning for image recognition (K. He et al. Microsoft) [[pdf]](http://arxiv.org/pdf/1512.03385)
 
 * Image
-  * `2013` Decaf: A deep convolutional activation feature for generic visual recognition `J. Donahue et al.` [[pdf]](http://arxiv.org/pdf/1310.1531)
-  * `2014` DeepFace: Closing the Gap to Human-Level Performance in Face Verification `Y. Taigman et al.` [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
-  * `2015` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks `S. Ren et al.` [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
-  * `2015` Imagenet large scale visual recognition challenge `O. Russakovsky et al.` [[pdf]](http://arxiv.org/pdf/1409.0575)  
+  * `2013` Decaf: A deep convolutional activation feature for generic visual recognition (J. Donahue et al.) [[pdf]](http://arxiv.org/pdf/1310.1531)
+  * `2014` DeepFace: Closing the Gap to Human-Level Performance in Face Verification (Y. Taigman et al.) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
+  * `2015` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (S. Ren et al.) [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
+  * `2015` Imagenet large scale visual recognition challenge (O. Russakovsky et al.) [[pdf]](http://arxiv.org/pdf/1409.0575)  
   
 * Articles
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
@@ -35,14 +35,14 @@
 * LINK
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
-  * Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow `김성` [[link]](http://hunkim.github.io/ml/)
-  * Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 `CodeOnWeb` [[link]](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
+  * Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow (김성) [[link]](http://hunkim.github.io/ml/)
+  * Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb) [[link]](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
   * 텐서플로우 코리아 [[link]](https://tensorflowkorea.wordpress.com/)
-  * 텐서플로우 튜토리얼 `텐서플로우 코리아` [[link]](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
+  * 텐서플로우 튜토리얼 (텐서플로우 코리아) [[link]](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
   * Book: 텐서플로우 첫걸음 [[link]](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
   * Book: Fundamental of Deep Learning [[link]](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)
-  * 텐서플로우 시작하기 `김정주` [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
-  * Deep learning/TensorFlow `문동선` [[link]](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
+  * 텐서플로우 시작하기 (김정주) [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+  * Deep learning/TensorFlow (문동선) [[link]](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
   * TFlearn [[link]](http://tflearn.org/)
   * [A Neural Algorithm of Artistic Style](http://sanghyukchun.github.io/92)
   * Paper collection [[link]](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
