@@ -1,5 +1,5 @@
 
-### Deep Learning in general
+## Deep Learning in general
 * Textbook
   * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) :sparkles:
   
@@ -38,7 +38,7 @@
   * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)  
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 
-* TensorFlow
+## TensorFlow
   * [TensorFlow 공식 홈페이지](http://tensorflow.org)
   * [TensorFlow Github](https://github.com/tensorflow/tensorflow/releases)
   * [TensorFlow Playground](http://playground.tensorflow.org/)
@@ -58,10 +58,10 @@
   * [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
   
   
-### Deep learning for Neuroinformatics
+## Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
 
-### Deep learning for Brain Tumor Segmentation
+## Deep learning for Brain Tumor Segmentation
 * CODE
   * ISBI 2012 brain EM image segmentation [[github]](https://github.com/ahmed-fakhry/dive)
   * Efficient multi-scale 3D convolution neural network for brain lesion segmentation [[github]](https://github.com/Kamnitsask/deepmedic)
@@ -91,7 +91,7 @@
 * Pathology
   * `2012` Deep Neural Networks segment neuronal membranes in electron Microscopy images [[pdf]](http://papers.nips.cc/paper/4741-deep-neural-networks-segment-neuronal-membranes-in-electron-microscopy-images)
   
-### Deep learning for Brain Tumor Grading
+## Deep learning for Brain Tumor Grading
 * MRI
   * `2015 IEEE EMBS` Brain tumor grading based on neural networks and convolutional neural netsworks [[pdf]](http://www.ncbi.nlm.nih.gov/pubmed/26736358)
   * `2016 Comput Math Methods Med` Multiscale CNNs for brain tumor segmentation and diagnosis [[pdf]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4812495/pdf/CMMM2016-8356294.pdf)
@@ -103,7 +103,7 @@
   * `2016 Nature Sci.Rep.` Deep learning as a tool for increased accuracy and efficiency of histopathological diagnosis [[pdf]](http://www.nature.com/articles/srep26286)
   * `2015` Deep learning with non-medical training used for chest pathology identification [[pdf]](https://www.cs.tau.ac.il/~wolf/papers/SPIE15chest.pdf)
 
-### Deep learning for Neuron Segmentation
+## Deep learning for Neuron Segmentation
 * Electron Microscopy  
   * `2013` Large-scale automatic reconstruction of neuroanl processes from electron microscopy images [[pdf]](https://arxiv.org/pdf/1303.7186.pdf)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
