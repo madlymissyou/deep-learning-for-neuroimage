@@ -76,5 +76,4 @@
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
 
 
-###### [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
-:sparkles: :star: :star2: :two_hearts: :boom: :collision:  
+###### [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :sparkles: :star: :star2: :two_hearts: :gift_heart:  :boom: 
