@@ -41,13 +41,17 @@
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 
 * TensorFlow
+  * [TensorFlow 공식 홈페이지](http://tensorflow.org)
+  * [TensorFlow Github](https://github.com/tensorflow/tensorflow/releases)
+  * [TensorFlow Playground](http://playground.tensorflow.org/)
+  * [Deep LEarning Docker Image](https://hub.docker.com/r/imcomking/bi_deeplearning/)
   * [텐서플로우 시작하기 (김정주)](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   * [텐서플로우 코리아](https://tensorflowkorea.wordpress.com/)
   * [텐서플로우 튜토리얼 (텐서플로우 코리아)](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
   * [Book: 텐서플로우 첫걸음](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)  
   * [Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow (김성)](http://hunkim.github.io/ml/)
   * [Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb)](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
-  * [TensorFlow Tutorial (SNU BILAB)](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb)
+  * [TensorFlow Tutorial (SNU BILAB)](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb) 
 
   
   
