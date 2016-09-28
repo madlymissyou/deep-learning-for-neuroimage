@@ -26,26 +26,31 @@
   * `2014` DeepFace: Closing the Gap to Human-Level Performance in Face Verification (Y. Taigman et al.) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
   * `2015` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (S. Ren et al.) [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
   * `2015` Imagenet large scale visual recognition challenge (O. Russakovsky et al.) [[pdf]](http://arxiv.org/pdf/1409.0575)  
+  * `2015` [A Neural Algorithm of Artistic Style](http://sanghyukchun.github.io/92)
   
 * Articles
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
-
   
-* LINK
+* LINK  
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
-  * Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow (김성) [[link]](http://hunkim.github.io/ml/)
-  * Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb) [[link]](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
-  * 텐서플로우 코리아 [[link]](https://tensorflowkorea.wordpress.com/)
-  * 텐서플로우 튜토리얼 (텐서플로우 코리아) [[link]](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
-  * Book: 텐서플로우 첫걸음 [[link]](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
-  * Book: Fundamental of Deep Learning [[link]](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)
-  * 텐서플로우 시작하기 (김정주) [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
-  * Deep learning/TensorFlow (문동선) [[link]](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
-  * TFlearn [[link]](http://tflearn.org/)
-  * [A Neural Algorithm of Artistic Style](http://sanghyukchun.github.io/92)
-  * Paper collection [[link]](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+  * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)
+  * [Deep learning/TensorFlow (문동선)](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
+  * [TFlearn](http://tflearn.org/)  
+  * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+
+* TensorFlow
+  * [텐서플로우 시작하기 (김정주)](https://gist.github.com/haje01/202ac276bace4b25dd3f)
+  * [텐서플로우 코리아](https://tensorflowkorea.wordpress.com/)
+  * [텐서플로우 튜토리얼 (텐서플로우 코리아)](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)
+  * [Book: 텐서플로우 첫걸음](https://tensorflowkorea.wordpress.com/2015/12/04/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1/comment-page-1/)  
+  * [Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow (김성)](http://hunkim.github.io/ml/)
+  * [Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb)](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
+  * [TensorFlow Tutorial (SNU BILAB)](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb)
+
+  
+  
   
 ### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
