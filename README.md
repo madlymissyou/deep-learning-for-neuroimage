@@ -53,7 +53,9 @@
   * [Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 (CodeOnWeb)](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
   * [TensorFlow Tutorial (SNU BILAB)](https://github.com/bi-lab/deeplearning_tutorial/blob/master/Deep_RL_tensorflow/TensorFlow_Tutorial.ipynb) 
 
-  
+* Open-source TensorFlow Implementation
+  * [Syntax Net, Magenta, Image2Txt](https://github.com/tensorflow/models)
+  * [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
   
   
 ### Deep learning for Neuroinformatics
