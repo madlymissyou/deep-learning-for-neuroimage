@@ -10,8 +10,8 @@
   * `2016.07` Towards an integration of Deep Learning and Neuroscience [[pdf]](http://biorxiv.org/content/biorxiv/early/2016/06/13/058545.full.pdf)
   
 * LINK
-  * Awesome - Most Cited Deep Learning Papers [[link]](https://github.com/terryum/awesome-deep-learning-papers)
-  * Links to Deep Learning Subtopics [[link]](http://memkite.com/deep-learning-bibliography/)
+  * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
   * Lecture: 모두를 위한 딥러닝/머신러닝 강의 TensorFlow `김성` [[link]](http://hunkim.github.io/ml/)
   * Lecture: TensorFlow 로 시작하는 기계 학습과 딥 러닝 `CodeOnWeb` [[link]](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
   * 텐서플로우 코리아 [[link]](https://tensorflowkorea.wordpress.com/)
@@ -21,7 +21,7 @@
   * 텐서플로우 시작하기 `김정주` [[link]](https://gist.github.com/haje01/202ac276bace4b25dd3f)
   * Deep learning/TensorFlow `문동선` [[link]](http://dsmoon.tistory.com/category/Deep%20Learning/TensorFlow)
   * TFlearn [[link]](http://tflearn.org/)
-  * A Neural Algorithm of Artistic Style [[link]](http://sanghyukchun.github.io/92)    
+  * [A Neural Algorithm of Artistic Style](http://sanghyukchun.github.io/92)    
   
 ### Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
