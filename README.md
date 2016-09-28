@@ -77,3 +77,4 @@
 
 
 ###### [Emoji Cheat Sheet](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+:sparkles: :star: :star2: :two_hearts: :boom: :collision:  
