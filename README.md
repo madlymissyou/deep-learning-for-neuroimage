@@ -1,7 +1,7 @@
 
 ### Deep Learning in general
 * Textbook
-  * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) *sparkle*
+  * Deep Learning Book `Yoshua Bengio` [[html]](http://www.deeplearningbook.org/) :sparkles:
 * Review articles
   * `2014` Deep learning for neuroimaging: a validation study [[pdf]](http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full)
   * `2015 Nature` Deep learning `Yann LeCun, Yoshua Bengio, Geoffrey Hinton` [[pdf]](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
