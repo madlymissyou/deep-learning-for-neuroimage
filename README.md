@@ -32,14 +32,14 @@
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
   
-* LINK  
+* Link 
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
   * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)  
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
 
 * TensorFlow
- * [TensorFlow 공식 홈페이지](http://tensorflow.org)
+  * [TensorFlow 공식 홈페이지](http://tensorflow.org)
   * [TensorFlow Github](https://github.com/tensorflow/tensorflow/releases)
   * [TensorFlow Playground](http://playground.tensorflow.org/)
   * [Deep LEarning Docker Image](https://hub.docker.com/r/imcomking/bi_deeplearning/)
