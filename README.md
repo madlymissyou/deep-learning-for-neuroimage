@@ -37,8 +37,7 @@
   * Understanding neural networks through deep visualization [[html]](http://yosinski.com/deepvis)
   * Convolutional neural networks for visual recognition [[html]](http://cs231n.github.io/understanding-cnn/)
   * `2015` Deep Dream: visualizing every layer of GoogLeNet [[html]](http://www.pyimagesearch.com/2015/08/03/deep-dream-visualizing-every-layer-of-googlenet/)
-  * `2016` Visualization of deep convolutional neural networks [[pdf]](http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1150&context=eng_etds)
-  
+  * `2016` Visualization of deep convolutional neural networks [[pdf]](http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1150&context=eng_etds)  
   
 * Articles
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
@@ -54,6 +53,7 @@
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
   * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)  
   * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+  * [머신러닝 튜토리얼](http://laonple.blog.me/220463627091)
 
 ## TensorFlow
 * Tutorials
