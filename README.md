@@ -33,6 +33,9 @@
   * Visualizing and understanding convolutional networks [[pdf]](http://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
   * mNeuron: a Matlab plugin to visualize neurons from deep models [[html]](http://vision03.csail.mit.edu/cnn_art/index.html)
   * Deep visualization toolbox [[code]](https://github.com/yosinski/deep-visualization-toolbox)
+  * 3D visualization of a convolutional neural network [[demo]](http://scs.ryerson.ca/~aharley/vis/conv/)
+  * Understanding neural networks through deep visualization [[html]](http://yosinski.com/deepvis)
+  * Convolutional neural networks for visual recognition [[html]](http://cs231n.github.io/understanding-cnn/)
   
   
 * Articles
