@@ -31,6 +31,10 @@
 * Articles
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
   * `2016.04` Deep learning used to assist overburdened diagnosticians [[html]](https://www.sciencedaily.com/releases/2016/04/160404134050.htm)
+  * `2016.08` AI startups in Healthcare [[html]](https://www.cbinsights.com/blog/artificial-intelligence-startups-healthcare/)
+  * `2016.09` Machine Intelligence in Medical Imaging Conference – Report [[html]](http://n2value.com/blog/machine-intelligence-in-medical-imaging-conference-report)
+  * `2016.09` The role of AI in Healthcare [[html]](https://www.linkedin.com/pulse/role-ai-healthcare-in-depth-guide-thomas-riisgaard-hansen)
+  * DeepMind wants its healthcare AI to charge by results - but first it needs your data [[html]](https://techcrunch.com/2016/09/20/deepmind-wants-its-healthcare-ai-to-charge-by-results-but-first-it-needs-your-data/)
   
 * Link 
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
