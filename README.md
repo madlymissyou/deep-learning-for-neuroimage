@@ -51,8 +51,7 @@
 * Link 
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   * [Links to Deep Learning Subtopics](http://memkite.com/deep-learning-bibliography/)
-  * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)  
-  * [Paper collection](https://github.com/HFTrader/DeepLearningBook/blob/master/DeepLearningPapers.md)
+  * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)    
   * [머신러닝 튜토리얼](http://laonple.blog.me/220463627091)
 
 ## TensorFlow
