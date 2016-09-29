@@ -34,7 +34,8 @@
   * `2016.08` AI startups in Healthcare [[html]](https://www.cbinsights.com/blog/artificial-intelligence-startups-healthcare/)
   * `2016.09` Machine Intelligence in Medical Imaging Conference – Report [[html]](http://n2value.com/blog/machine-intelligence-in-medical-imaging-conference-report)
   * `2016.09` The role of AI in Healthcare [[html]](https://www.linkedin.com/pulse/role-ai-healthcare-in-depth-guide-thomas-riisgaard-hansen)
-  * DeepMind wants its healthcare AI to charge by results - but first it needs your data [[html]](https://techcrunch.com/2016/09/20/deepmind-wants-its-healthcare-ai-to-charge-by-results-but-first-it-needs-your-data/)
+  * `2016.09` DeepMind wants its healthcare AI to charge by results - but first it needs your data [[html]](https://techcrunch.com/2016/09/20/deepmind-wants-its-healthcare-ai-to-charge-by-results-but-first-it-needs-your-data/)
+  * `2016.09` Microsoft announces new AI-powered health care initiatives targeting cancer [[html]]( http://www.theverge.com/2016/9/20/12986314/microsoft-ai-healthcare-project-hanover-cancer)
   
 * Link 
   * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
