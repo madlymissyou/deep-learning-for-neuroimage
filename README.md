@@ -54,6 +54,10 @@
   * [Book: Fundamental of Deep Learning](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/)    
   * [머신러닝 튜토리얼](http://laonple.blog.me/220463627091)
 
+* Topic
+  * [인공지능이 작곡한 세계 최초의 음악이 공개되다](http://visla.kr/?p=45671)
+  
+  
 ## TensorFlow
 * Tutorials
   * [TensorFlow 공식 홈페이지](http://tensorflow.org)
