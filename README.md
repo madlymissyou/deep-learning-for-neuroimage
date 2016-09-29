@@ -22,12 +22,18 @@
   * `2015` Going deeper with convolutions (C. Szegedy et al. Google) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) 
   * `2016` Deep residual learning for image recognition (K. He et al. Microsoft) [[pdf]](http://arxiv.org/pdf/1512.03385)
 
-* Image
+* CNN
   * `2013` Decaf: A deep convolutional activation feature for generic visual recognition (J. Donahue et al.) [[pdf]](http://arxiv.org/pdf/1310.1531)
   * `2014` DeepFace: Closing the Gap to Human-Level Performance in Face Verification (Y. Taigman et al.) [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf)
   * `2015` Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (S. Ren et al.) [[pdf]](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf)  
   * `2015` Imagenet large scale visual recognition challenge (O. Russakovsky et al.) [[pdf]](http://arxiv.org/pdf/1409.0575)  
   * `2015` [A Neural Algorithm of Artistic Style](http://sanghyukchun.github.io/92)
+  
+* CNN visuatlization
+  * Visualizing and understanding convolutional networks [[pdf]](http://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
+  * mNeuron: a Matlab plugin to visualize neurons from deep models [[html]](http://vision03.csail.mit.edu/cnn_art/index.html)
+  * Deep visualization toolbox [[code]](https://github.com/yosinski/deep-visualization-toolbox)
+  
   
 * Articles
   * `2016.03` Deep learning in medical imaging: the not-so-near future [[html]](http://www.diagnosticimaging.com/pacs-and-informatics/deep-learning-medical-imaging-not-so-near-future)
