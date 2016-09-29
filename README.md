@@ -36,6 +36,7 @@
   * 3D visualization of a convolutional neural network [[demo]](http://scs.ryerson.ca/~aharley/vis/conv/)
   * Understanding neural networks through deep visualization [[html]](http://yosinski.com/deepvis)
   * Convolutional neural networks for visual recognition [[html]](http://cs231n.github.io/understanding-cnn/)
+  * `2016` Visualization of deep convolutional neural networks [[pdf]](http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1150&context=eng_etds)
   
   
 * Articles
