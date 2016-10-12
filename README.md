@@ -79,14 +79,20 @@
   * [Syntax Net, Magenta, Image2Txt](https://github.com/tensorflow/models)
   * [https://github.com/TensorFlowKR/awesome_tensorflow_implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
   
-  
+  http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full
 ## Deep learning for Neuroinformatics
   * `2015` Deep Neural Networks: a new fraomework for modeling biological vision and brain information processing [[pdf]](http://www.annualreviews.org/doi/pdf/10.1146/annurev-vision-082114-035447)
 
-## Deep learning for Neuron Segmentation
+## Deep learning for neuro
+  * `2014` Deep learning for neuroimaging: a validation study [[pdf]](http://journal.frontiersin.org/article/10.3389/fnins.2014.00229/full)
+
+## Deep learning for Segmentation
 * Electron Microscopy  
   * `2013` Large-scale automatic reconstruction of neuroanl processes from electron microscopy images [[pdf]](https://arxiv.org/pdf/1303.7186.pdf)
   * `2016` Deep learning trends for focal brain pathology segmentation in MRI [[pdf]](https://arxiv.org/pdf/1607.05258.pdf)
+* MRI
+  * `2013` Machine learning in medical imaging [[pdf]](http://link.springer.com/chapter/10.1007%2F978-3-319-02267-3_1)
+  * `D
 
 ## Deep learning for Brain Tumor Segmentation
 * CODE
